@@ -2,7 +2,7 @@
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to Krishan-mohan. Thanks!
 
-Built With
+#Built With
 
 
 This project was built using these technologies.
@@ -20,10 +20,10 @@ Features
 
 📱 Fully Responsive
 
-Getting Started
+#Getting Started
 Clone down this repository. You will need node.js and git installed globally on your machine.
 
-🛠 Installation and Setup Instructions
+# 🛠 Installation and Setup Instructions
 Installation: npm install
 
 In the project directory, you can run: npm start
